@@ -1,2 +1,4 @@
-Instrument,Category,Status,Value,Notes
-US_ZW_ZIMBABWE_001,Constitution,Active,$15.00B,Primary restitution instrument
+instrument_id,issue,anchor,source_type,verification_status,notes
+ZW-A-001,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",UN/OHCHR country documentation for Zimbabwe (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review
+ZW-A-002,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",US State Department human rights/reporting for Zimbabwe (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review
+ZW-A-003,"Historical intervention, resource extraction, economic coercion, governance impacts - verification required",African Union / regional records (verify),PUBLIC_RECORD,PENDING_PRIMARY_SOURCE,Verify with primary source and counsel review
