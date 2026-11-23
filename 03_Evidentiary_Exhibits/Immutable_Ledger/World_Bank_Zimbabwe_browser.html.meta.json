@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/zimbabwe",
+  "final_url": "https://data.worldbank.org/country/zimbabwe",
+  "title": "World Bank Zimbabwe",
+  "fetched_at": "2026-11-23T08:09:30.914890Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44509,
+  "sha256": "88eb81da7760c6d715ffb9b89cbed5b3275237efd5fe15f9b530b3dc2651287e",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}
